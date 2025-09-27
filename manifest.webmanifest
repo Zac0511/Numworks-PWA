@@ -27,14 +27,28 @@
   "prefer_related_applications": true,
   "icons": [
     {
-      "src": "/icons/icon-400.png",
+      "src": "/icons/regular/icon-400.png",
       "sizes": "400x400",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "/icons/icon-144.png",
+      "src": "/icons/regular/icon-144.png",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable/icon_maskable_400.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/maskable/icon_maskable_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
