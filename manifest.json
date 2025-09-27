@@ -7,6 +7,10 @@
   "theme_color": "#c2c2c2",
   "description": "The Numworks Calculator emulator, running offline on your device",
   "start_url": "/index.html",
+  "categories": [
+    "education",
+    "utilities"
+  ],
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
