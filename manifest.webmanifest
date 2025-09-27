@@ -5,6 +5,7 @@
   "orientation": "any",
   "short_name": "Numworks",
   "theme_color": "#c2c2c2",
+  "id": "Numworks PWA",
   "description": "The Numworks Calculator emulator, running offline on your device",
   "start_url": "/index.html",
   "categories": [
