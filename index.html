@@ -24,6 +24,11 @@
   </style>
 </head>
 <body>
+  <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+  </script>
   <iframe src="emulator/numworks-simulator-24.5.0.html"></iframe>
 </body>
 </html>
