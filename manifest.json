@@ -11,6 +11,18 @@
     "education",
     "utilities"
   ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.numworks.calculator",
+      "id": "com.numworks.calculator"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/app/numworks-graphing-calculator/id1456585807",
+      "id": "1456585807"
+    }
+  ],
   "icons": [
     {
       "src": "/icons/windows11/SmallTile.scale-100.png",
