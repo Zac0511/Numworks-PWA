@@ -1,0 +1,9 @@
+{
+  "background_color": "#c2c2c2",
+  "display": "standalone",
+  "name": "Numworks Calculator",
+  "orientation": "any",
+  "short_name": "Numworks",
+  "theme_color": "#c2c2c2",
+  "description": "The Numworks Calculator emulator, running offline on your device"
+}
