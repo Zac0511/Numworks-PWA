@@ -27,8 +27,13 @@
   "prefer_related_applications": true,
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "/icons/icon-400.png",
       "sizes": "400x400",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ]
